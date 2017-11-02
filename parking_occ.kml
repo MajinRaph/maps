@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>buildingEntrance</name>
+    <Folder>
+      <Placemark>
+        <styleUrl>#icon-green-spot</styleUrl>
+        <name>Parking Grolière Libre</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>80001</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>XXXX</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking_occupation</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.1062287092208862,45.791420651149224,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="icon-green-spot">
+      <IconStyle>
+        <color>66FF5EFF</color>
+        <scale>0.9</scale>
+        <Icon>
+          <href>images/green_spot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
