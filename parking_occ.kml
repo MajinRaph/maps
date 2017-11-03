@@ -28,6 +28,31 @@
           <coordinates>3.0882927775382996,45.78317718806024,0.0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <styleUrl>#icon-orange-spot</styleUrl>
+        <name>Parking O9</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>80001</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking_occupation</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.089534,45.785705,0.0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Style id="icon-green-spot">
       <IconStyle>
