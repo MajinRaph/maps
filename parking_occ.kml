@@ -34,7 +34,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
-            <value>80001</value>
+            <value>80002</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -51,6 +51,31 @@
         </ExtendedData>
         <Point>
           <coordinates>3.0896244943141937,45.785878321897364,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#icon-red-spot</styleUrl>
+        <name>Parking de Montaigut</name>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>id</displayName>
+            <value>80003</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>site</displayName>
+            <value>Carmes</value>
+          </Data>
+        </ExtendedData>
+        <ExtendedData>
+          <Data name="string">
+            <displayName>Type</displayName>
+            <value>parking_occupation</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>3.0919016897678375,45.78567070523274,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>
