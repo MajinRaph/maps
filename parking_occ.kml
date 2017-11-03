@@ -4,7 +4,7 @@
     <name>buildingEntrance</name>
     <Folder>
       <Placemark>
-        <!--<styleUrl>#icon-green-spot</styleUrl>
+        <styleUrl>#icon-green-spot</styleUrl>
         <name>Parking Sud</name>
         <ExtendedData>
           <Data name="string">
@@ -76,7 +76,7 @@
         </ExtendedData>
         <Point>
           <coordinates>3.0919016897678375,45.78567070523274,0.0</coordinates>
-        </Point>-->
+        </Point>
       </Placemark>
     </Folder>
     <Style id="icon-green-spot">
