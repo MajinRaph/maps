@@ -5,7 +5,7 @@
     <Folder>
       <Placemark>
         <styleUrl>#icon-green-spot</styleUrl>
-        <name>Parking Grolière Libre</name>
+        <name>Parking GroliÃ¨re Libre</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -34,7 +34,7 @@
         <color>66FF5EFF</color>
         <scale>0.9</scale>
         <Icon>
-          <href>images/green_spot.png</href>
+          <href>images/orange_spot.png</href>
         </Icon>
       </IconStyle>
     </Style>
