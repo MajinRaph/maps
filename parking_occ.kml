@@ -5,7 +5,7 @@
     <Folder>
       <Placemark>
         <styleUrl>#icon-green-spot</styleUrl>
-        <name>Parking Grolière Libre</name>
+        <name>Parking Sud</name>
         <ExtendedData>
           <Data name="string">
             <displayName>id</displayName>
@@ -15,7 +15,7 @@
         <ExtendedData>
           <Data name="string">
             <displayName>site</displayName>
-            <value>XXXX</value>
+            <value>Carmes</value>
           </Data>
         </ExtendedData>
         <ExtendedData>
@@ -25,7 +25,7 @@
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>3.1062287092208862,45.791420651149224,0.0</coordinates>
+          <coordinates>3.087337911128998,45.78287416509727,0.0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -34,7 +34,25 @@
         <color>66FF5EFF</color>
         <scale>0.9</scale>
         <Icon>
+          <href>images/green_spot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-orange-spot">
+      <IconStyle>
+        <color>66FF5EFF</color>
+        <scale>0.9</scale>
+        <Icon>
           <href>images/orange_spot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-red-spot">
+      <IconStyle>
+        <color>66FF5EFF</color>
+        <scale>0.9</scale>
+        <Icon>
+          <href>images/red_spot.png</href>
         </Icon>
       </IconStyle>
     </Style>
