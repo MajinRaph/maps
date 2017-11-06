@@ -29,7 +29,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <styleUrl>#icon-red-spot</styleUrl>
+        <styleUrl>#icon-orange-spot</styleUrl>
         <name>Parking O9</name>
         <ExtendedData>
           <Data name="string">
@@ -54,7 +54,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <styleUrl>#icon-red-spot</styleUrl>
+        <styleUrl>#icon-orange-spot</styleUrl>
         <name>Parking de Montaigut</name>
         <ExtendedData>
           <Data name="string">
