@@ -4,7 +4,7 @@
     <name>buildingEntrance</name>
     <Folder>
       <Placemark>
-        <styleUrl>#icon-orange-spot</styleUrl>
+        <styleUrl>#icon-red-spot</styleUrl>
         <name>Parking Sud</name>
         <ExtendedData>
           <Data name="string">
