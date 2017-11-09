@@ -3,8 +3,8 @@
   <Document>
     <name>buildingEntrance</name>
     <Folder>
-      <Placemark>
-        <styleUrl>#icon-orange-spot</styleUrl>
+      <!--<Placemark>
+        <styleUrl>#icon-red-spot</styleUrl>
         <name>Parking Sud</name>
         <ExtendedData>
           <Data name="string">
@@ -29,7 +29,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <styleUrl>#icon-red-spot</styleUrl>
+        <styleUrl>#icon-orange-spot</styleUrl>
         <name>Parking O9</name>
         <ExtendedData>
           <Data name="string">
@@ -54,7 +54,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <styleUrl>#icon-red-spot</styleUrl>
+        <styleUrl>#icon-orange-spot</styleUrl>
         <name>Parking de Montaigut</name>
         <ExtendedData>
           <Data name="string">
@@ -77,7 +77,7 @@
         <Point>
           <coordinates>3.0919016897678375,45.78567070523274,0.0</coordinates>
         </Point>
-      </Placemark>
+      </Placemark>-->
     </Folder>
     <Style id="icon-green-spot">
       <IconStyle>
